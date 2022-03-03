@@ -1,3 +1,11 @@
+autojump
+brave-bin
+bridge-utils
+nerd-fonts-fira-code
+spaceship-prompt-git
+vscodium-bin
+nerd-fonts-complete
+ttf-ms-fonts
 --END OF MINIMAL INSTALL--
 autojump
 brave-bin
